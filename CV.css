@@ -1,0 +1,96 @@
+body {
+    background-image: url('background.jpg');
+}
+
+
+.main-titles{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+.img-thumbnail {
+    width: 220px;
+}
+
+.personal {
+    text-align: left;
+    position: inherit;
+    vertical-align: middle;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 1em;
+}
+
+hr {
+    color: #091c2e;
+    background-color: #091c2e;
+    border: black;
+}
+
+.icon {
+    width: 1em;
+    text-align: center;
+    margin-right: 0.5em;    
+}
+.fab, .far {
+    color:#201d1c;
+}
+
+#major {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline; 
+}
+
+.year-loc {
+    color: rgb(56, 55, 53);
+    font-style: italic;
+    font-size: 0.35cm;
+    font-weight: bolder;
+}
+
+.languages {
+    font-size: large;
+    text-align: left;
+    margin-left: 1em;
+}
+.progress-bar {
+    background-color: rgb(155, 138, 84);
+}
+
+#objective {
+    font-weight: bold;
+    text-align: justify;
+    text-justify: auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1em;
+    margin-right: 0.5em;
+    font-size: 0.45cm;
+}
+
+.work-desc {
+    font-size: 0.42cm;
+    text-align: justify;
+    text-justify: inter-character;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0.5cm;
+    hyphens: auto;
+}
+/* 
+.border-right {
+    border-right: 1px solid rgb(148, 140, 33);
+    height: 470px;
+    
+} */
+
+.underline {
+    text-decoration: underline;
+}
+
+.last-col {
+    /* border-right: 1cm; */
+    margin-right: 0.5cm;
+}
+
+.skills {
+    font-size: 0.4cm;
+}
